@@ -1,24 +1,26 @@
-import logo from './logo.svg';
 import './App.css';
+import Header from './components/Header/Header';
+import Players from './components/Players/Players';
+import Sidebar from './components/Sidebar/Sidebar';
+import React from 'react';
 
 function App() {
+  const [selection, setSelected] = React.useState([]);
+  const handleAddToSelection = (player) =>{
+      const newSelection = [...selection, player];
+      setSelected(newSelection)
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Header></Header>
+      <main className="container my-5">
+        <div className= "row">
+          <Players handleAddToSelection = {handleAddToSelection} ></Players>
+          <Sidebar selection = {selection}></Sidebar>
+        </div>
+      </main>
+    </>
   );
 }
 

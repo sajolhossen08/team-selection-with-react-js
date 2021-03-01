@@ -1,0 +1,141 @@
+[
+    {
+        "id" : "p-1",
+        "name" : "Shakib Al Hasan",
+        "born" : "Mar 24, 1987",
+        "role" : "Batting Allrounder",
+        "salary" : 602000,
+        "image" : "https://i.ibb.co/gVmqtHp/shakib-al-hasan.webp"
+    },
+    {
+        "id" : "p-2",
+        "name" : "Tamim Iqbal",
+        "born" : "Mar 20, 1989",
+        "role" : "Batsman",
+        "salary" : 603000,
+        "image" : "https://i.ibb.co/pWbMQXW/tamim-iqbal.webp"
+    },
+    {
+        "id" : "p-3",
+        "name" : "Mushfiqur Rahim",
+        "born" : "Jun 09, 1987",
+        "role" : "WK-Batsman",
+        "salary" : 602000,
+        "image" : "https://i.ibb.co/R03WTxv/mushfiqur-rahim.webp"
+    },
+    {
+        "id" : "p-4",
+        "name" : "Mahmudullah",
+        "born" : "Feb 04, 1986",
+        "role" : "Batting Allrounder",
+        "salary" : 400000,
+        "image" : "https://i.ibb.co/3M3xtW6/mahmudullah.webp"
+    },
+    {
+        "id" : "p-5",
+        "name" : "Mashrafe Mortaza",
+        "born" : "Oct 05, 1983",
+        "role" : "Bowler",
+        "salary" : 731000,
+        "image" : "https://i.ibb.co/y8BFd5z/mashrafe-mortaza.webp"
+    },
+    {
+        "id" : "p-6",
+        "name" : "Mustafizur Rahman",
+        "born" : "Sep 06, 1995",
+        "role" : "Bowler",
+        "salary" : 200000,
+        "image" : "https://i.ibb.co/K2C73QS/mustafizur-rahman.webp"
+    },
+    {
+        "id" : "p-7",
+        "name" : "Soumya Sarkar",
+        "born" : "Feb 25, 1993",
+        "role" : "Batsman",
+        "salary" : 400000,
+        "image" : "https://i.ibb.co/GnXgkhc/soumya-sarkar.webp"
+    },
+    {
+        "id" : "p-8",
+        "name" : "Mehidy Hasan",
+        "born" : "Oct 25, 1997",
+        "role" : "Bowling Allrounder",
+        "salary" : 200000,
+        "image" : "https://i.ibb.co/4pL78z6/mehidy-hasan.webp"
+    },
+    {
+        "id" : "p-9",
+        "name" : "Liton Das",
+        "born" : "Oct 13, 1994",
+        "role" : "WK-Batsman",
+        "salary" : 200000,
+        "image" : "https://i.ibb.co/z7jNck5/liton-das.webp"
+    },
+    {
+        "id" : "p-10",
+        "name" : "Abdur Razzak",
+        "born" : "Jun 15, 1982",
+        "role" : "Bowler",
+        "salary" : 400000,
+        "image" : "https://i.ibb.co/tbRxydr/abdur-razzak.webp"
+    },
+    {
+        "id" : "p-11",
+        "name" : "Rubel Hossain",
+        "born" : "Jan 01, 1990",
+        "role" : "Bowler",
+        "salary" : 200000,
+        "image" : "https://i.ibb.co/L9XPsvf/rubel-hossain.webp"
+    },
+    {
+        "id" : "p-12",
+        "name" : "Sabbir Rahman",
+        "born" : "Nov 22, 1991",
+        "role" : "Batsman",
+        "salary" : 200000,
+        "image" : "https://i.ibb.co/ZSfhDJW/sabbir-rahman.webp"
+    },
+    {
+        "id" : "p-13",
+        "name" : "Mosaddek Hossain",
+        "born" : "Dec 10, 1995",
+        "role" : "Batting Allrounder",
+        "salary" : 200000,
+        "image" : "https://i.ibb.co/1MK3X9t/mosaddek-hossain.webp"
+    },
+    {
+        "id" : "p-14",
+        "name" : "Taskin Ahmed",
+        "born" : "Mar 04, 1995",
+        "role" : "Bowler",
+        "salary" : 150000,
+        "image" : "https://i.ibb.co/2S05sFS/taskin-ahmed.webp"
+    },
+    {
+        "id" : "p-15",
+        "name" : "Al-Amin Hossain",
+        "born" : "January 1, 1990",
+        "role" : "Bowler",
+        "salary" : 100000,
+        "image" : "https://i.ibb.co/m4W2QrR/al-amin-hossain.webp"
+    },
+    {
+        "id" : "p-16",
+        "name" : "Mohammad Saifuddin",
+        "born" : "Nov 01, 1996",
+        "role" : "Batting Allrounder",
+        "salary" : 150000,
+        "image" : "https://i.ibb.co/VQ6mjjV/mohammad-saifuddin.webp"
+    },
+    {
+        "id" : "p-17",
+        "name" : "Nasir Hossain",
+        "born" : "Nov 30, 1991",
+        "role" : "Batting Allrounder",
+        "salary" : 100000,
+        "image" : "https://i.ibb.co/Lkn1Cg7/pictured-during-a-Headshot-session-ahead-of-the-ICC-Twenty20-World-Cup-on-March-7-2016-in-Dharamsala.jpg"
+    }
+
+    
+
+]
